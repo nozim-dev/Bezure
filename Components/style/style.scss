@@ -1,0 +1,12 @@
+@import "../Muhammadali/style/_m.scss";
+@import "../Abbos/style/_a.scss";
+@import "../Sardor/style/_s.scss";
+@font-face {
+  font-family: "StretchPro";
+  src: url("./font/StretchPro.otf");
+}
+* {
+  padding: 0;
+  margin: auto;
+  box-sizing: border-box;
+}
